@@ -30,13 +30,13 @@ a natural succession of plant communities, especially a full series from uncolon
     <li><a>Sere will stage all commits outside of this time scope as wilted, and will prompt if they are safe to be excluded from the rebase (deleted).</a></li>
     <li><a>Additionally, users can set a maximum number of commits from the latest commit to exist at a time, and perform an automatic rebase each time it is exceeded.</a></li>    
   </ul>
-  <li><a>Outliner command override; add your own git command lines to the outliner actions.</a></li>
   
   <li><a>'Flowerbeds' or, 'Beds', for short.</a></li>
   <ul>
     <li><a>A '.gitignore' scope that allows passthrough of individual files for sequence file management. (ex. render passes)</a></li>
     <li><a>When beds check local against remote for files of a sequence in a directory, they will <b><i>not</i></b> pull all files into the staging area, local users will have full control over which files and how many they wish to check out from remote. </a></li>
   </ul>
+   <li><a>Outliner command override; add your own git command lines to the outliner actions.</a></li>
   <li><a>Stores configuration and installation information in a json format for automatic updates and setup migration.</a></li> 
 </ul>
   
