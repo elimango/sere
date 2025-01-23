@@ -9,7 +9,7 @@ a natural succession of plant communities, especially a full series from uncolon
 
 <hr></hr>
 
-*Sere* is a lightweight gui wrapper for git, git servers (ex. GitHub, GitLab); using Git LFS, built strictly to propagate self-hosted production pipelines.
+*Sere* is a lightweight file streamer and gui wrapper for Git, built strictly to propagate self-hosted production pipelines.
 
 ### Full Usage
 <u>__Sere__</u> is primarily developed for *elimango/studio* (development lead by elimango), which is project managed using <a href="https://obsidian.md/">*Obsidian*</a>, a markdown based text editor that lives exclusively on your local device. Sere listens and shares git porcelain status with structures in your obsidian vault.
@@ -30,6 +30,7 @@ a natural succession of plant communities, especially a full series from uncolon
     <li><a>Sere will stage all commits outside of this time scope as wilted, and will prompt if they are safe to be excluded from the rebase (deleted).</a></li>
     <li><a>Additionally, users can set a maximum number of commits from the latest commit to exist at a time, and perform an automatic rebase each time it is exceeded.</a></li>    
   </ul>
+  <li><a>Outliner command override; add your own git command lines to the outliner actions.</a></li>
   
   <li><a>'Flowerbeds' or, 'Beds', for short.</a></li>
   <ul>
