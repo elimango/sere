@@ -5,6 +5,10 @@ a natural succession of plant communities, especially a full series from uncolon
 
 <hr></hr>
 
+![image](https://github.com/user-attachments/assets/8b9b34e9-883f-4ad7-bf14-5f8996769369)
+
+<hr></hr>
+
 *Sere* is a lightweight gui wrapper for git, git servers (ex. GitHub, GitLab); using Git LFS, built strictly to propagate self-hosted production pipelines.
 
 ### Full Usage
